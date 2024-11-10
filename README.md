@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**, ** Working With Next Js and GASP to create a 3D webiste, ** Making a Login and Logout API Using Express Js**
 - 🌱 I'm currently learning: **📚 Exploring LangChain**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, Firebase and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged an issue in my dream**
